@@ -1,21 +1,23 @@
-# jemdoc: menu{MENU}{index.html}, showsource
-# jemdoc: analytics{UA-130203500-1}
-== Jiang Hu
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Jiang Hu
 
 ~~~
-{}{img_left}{images/hujiang.jpg}{Temp}{300}
-I am now a fifth year Ph.D. student at <a href="http://bicmr.pku.edu.cn/">Beijing International Center for Mathematical Research (BICMR)</a>, <a href="https://pku.edu.cn/">Peking University</a>. My current research focuses on theory and algorithm of manifold optimization and its applications arising
-from machine learning, statistics and image processing. 
+{}{img_left}{images/hujiang.jpg}{alt text}{131}{160}
+Ph.D. Candidate at [http://bicmr.pku.edu.cn/content/lists/12_catid54_3.html BICMR], [https://www.pku.edu.cn/ Peking University (PKU)].
+No. 5, Yiheyuan Road Haidian District\n
+Beijing, P.R.China 100871 \n
+Email: /jianghu/ \[DOT\] pku \[DOT\] edu\[DOT\] cn 
 ~~~
+
+== About me
+I am now a fifth year Ph.D. student at Peking University. My current research focuses on theory and algorithm of manifold optimization and its applications arising
+from machine learning, statistics and image processing.
 
 == Education
-- September 2011 - July 2015
-B.S. in Applied Mathematics, Hunan University, Changsha, China
-- September 2015 - Present
-Ph.D. in Computational Mathematics, Peking University, Beijing, China
-Advisor: Professor Zaiwen Wen
+- September 2011 - July 2015  \n
+B.S. in Applied Mathematics, Hunan University, Changsha, China  \n 
+- September 2015 - Present  \n
+Ph.D. in Computational Mathematics, Peking University, Beijing, China   \n
+Advisor: Professor Zaiwen Wen \n
 
-== Honors AND awards
-- The Elite Program of Computational and Applied Mathematics for Ph.D. Candidates (< 10%),
-Peking University, 2016-2020.
-- The President Scholarship (< 20%), Peking University, 2016-2017, 2017-2018, 2019-2020.
+

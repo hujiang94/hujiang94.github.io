@@ -1,11 +1,30 @@
-# jemdoc: menu{MENU}{publications.html}, nofooter
-# jemdoc: analytics{UA-130203500-1}
-== Publications and Preprints (reverse chronological order)
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+== Jiang Hu
 
-== Preprints
 
-*Nived Rajaraman*, and Rahul Vaze, Goonwanth Reddy, "Not Just Age but Age and Quality of Information" \[Submitted to MobiHoc 2019\]
 
-*Nived Rajaraman*, and Rahul Vaze, [https://arxiv.org/abs/1810.12861 "Submodular Maximization Under A Matroid Constraint: Asking more from an old friend, the Greedy Algorithm"]
+=== Publications
 
-== Publications
+- Book
+
+   . H. Liu, *J. Hu*, Y. Li, Z. Wen, Computational Methods For Optimization (in Chinese), submitted.    
+   \[[http://bicmr.pku.edu.cn/~wenzw/optbook.html content]\]
+- Research articles:  
+   . *J. Hu*, X. Liu, Z. Wen, Y. Yuan, A Brief Introduction to Manifold Optimization, arXiv:1906.05450.  
+   \[[https://arxiv.org/abs/1906.05450 arxiv]\]  
+   . **J. Hu**, B. Jiang, L. Lin, Z. Wen, Y. Yuan (2019), Structured Quasi-Newton Methods for Optimization
+      with Orthogonality Constraints, SIAM Journal on Scientific Computing, 41(4), A2239–A2269.     
+   \[[https://epubs.siam.org/doi/pdf/10.1137/18M121112X journal]\] \[[https://github.com/wenstone/ASQN code]\]     
+   . **J. Hu**, A. Milzarek, Z. Wen, Y. Yuan (2018). Adaptive Quadratically Regularized Newton Method
+      for Riemannian Optimization. SIAM Journal on Matrix Analysis and Applications, 39(3), 1181–1207.  
+    \[[https://epubs.siam.org/doi/pdf/10.1137/17M1142478 journal]\] \[[https://github.com/wenstone/ARNT code]\]  
+   . *J. Hu*, B. Jiang, X. Liu, Z. Wen (2016). A note on semidefinite programming relaxations for
+      polynomial optimization over a single sphere. Science China Mathematics, 59(8), 1543-1560.     
+   \[[https://link.springer.com/article/10.1007/s11425-016-0301-5 journal]\]   
+
+=== More profiles
+[https://scholar.google.com/citations?hl=en&user=WIlpQFwAAAAJ Google Scholar].\n
+[https://www.researchgate.net/profile/Jiang_Hu17 Researchgate].
+
+
+
