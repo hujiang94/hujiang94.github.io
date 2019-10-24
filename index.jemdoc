@@ -1,10 +1,21 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 # jemdoc: analytics{UA-130203500-1}
-== Nived Rajaraman
+== Jiang Hu
 
 ~~~
-{}{img_left}{images/nived.jpg}{Temp}{150}
-I am a final year dual degree student at the [http://www.ee.iitm.ac.in/ Department of Electrical Engineering], [https://www.iitm.ac.in/ IIT Madras]. I am broadly interested in problems that lie in the intersection of electrical engineering and computer science - in particular high dimensional statistical and algorithmic problems.
-
-I am fortunate to have [https://www.microsoft.com/en-us/research/people/rakri/ Dr. Ravishankar Krishnaswamy] as my master's thesis advisor. I am also fortunate to collaborate with [http://www.tcs.tifr.res.in/~vaze/ Dr. Rahul Vaze] and [http://www.ee.iitm.ac.in/~andrew/ Dr. Andrew Thangaraj].
+{}{img_left}{images/hujiang.jpg}{Temp}{300}
+I am now a fifth year Ph.D. student at <a href="http://bicmr.pku.edu.cn/">Beijing International Center for Mathematical Research (BICMR)</a>, <a href="https://pku.edu.cn/">Peking University</a>. My current research focuses on theory and algorithm of manifold optimization and its applications arising
+from machine learning, statistics and image processing. 
 ~~~
+
+== Education
+- September 2011 - July 2015
+B.S. in Applied Mathematics, Hunan University, Changsha, China
+- September 2015 - Present
+Ph.D. in Computational Mathematics, Peking University, Beijing, China
+Advisor: Professor Zaiwen Wen
+
+== Honors AND awards
+- The Elite Program of Computational and Applied Mathematics for Ph.D. Candidates (< 10%),
+Peking University, 2016-2020.
+- The President Scholarship (< 20%), Peking University, 2016-2017, 2017-2018, 2019-2020.
