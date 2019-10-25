@@ -32,6 +32,8 @@ from subprocess import *
 from types import *
 import tempfile
 
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='gb18030')         #改变标准输出的默认编码
+
 def info():
   print(__doc__)
   print('Platform: ' + sys.platform + '.')
@@ -375,9 +377,11 @@ def insertmenuitems(f, mname, current, prefix):
 def out(f, s):
 #  print(type(s))
   if sys.version_info[0] == 2 and type(s) is StringType:
-    f.write(s.decode('utf-8'))
+    # f.write(s.decode('utf-8'))
+    f.write(s)
   else:
     f.write(s)
+    # f.write(s)
 
 def mathjaxussub(link):
   link = link.replace('_', 'UNDERSCORE65358')
@@ -1550,7 +1554,7 @@ def procfile(f):
     out(f.outf, f.conf['footerstart'])
     if showlastupdated:
       if showlastupdatedtime:
-        ts = '%Y-%m-%d %H:%M:%S %Z'
+        ts = '%Y-%m-%d %H:%M:%S CST'
       else:
         ts = '%Y-%m-%d'
       s = time.strftime(ts, time.localtime(time.time()))
@@ -1626,8 +1630,9 @@ def main():
     else:
       thisout = outname
 
-    infile = io.open(inname, 'rUb')
-    outfile = io.open(thisout, 'w')
+    infile = io.open(inname, 'rb')
+    # outfile = io.open(thisout, 'w')
+    outfile = open(thisout, 'w', encoding="utf-8")
 
 #    print(infile.read())
     f = controlstruct(infile, outfile, conf, inname)

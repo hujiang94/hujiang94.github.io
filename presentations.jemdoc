@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{presentations.html}, nofooter  
+# jemdoc: menu{MENU}{presentations.html}, showsource
 == Presentations
 
 - The 11th International Conference on Numerical Optimization and Numerical Linear Algebra,
