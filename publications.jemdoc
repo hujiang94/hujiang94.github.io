@@ -7,8 +7,8 @@
    - H. Liu, *J. Hu*, Y. Li, Z. Wen, Computational Methods For Optimization (in Chinese), submitted.    
    \[[http://bicmr.pku.edu.cn/~wenzw/optbook.html content]\]
 == Research articles:  
-   - *J. Hu*, X. Liu, Z. Wen, Y. Yuan, A Brief Introduction to Manifold Optimization, accepted by Journal of the Operations Research Society of China.  
-   \[[https://arxiv.org/abs/1906.05450 arxiv]\] 
+   - *J. Hu*, X. Liu, Z. Wen, Y. Yuan, A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China.  
+   \[[https://link.springer.com/article/10.1007/s40305-020-00295-9 journal]\] 
    - *J. Hu*, B. Jiang, L. Lin, Z. Wen, Y. Yuan (2019), Structured Quasi-Newton Methods for Optimization
       with Orthogonality Constraints, SIAM Journal on Scientific Computing, 41(4), A2239-A2269.    
    \[[https://epubs.siam.org/doi/pdf/10.1137/18M121112X journal]\] \[[https://github.com/wenstone/ASQN code]\]    
