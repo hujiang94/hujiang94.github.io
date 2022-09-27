@@ -32,8 +32,6 @@ from subprocess import *
 from types import *
 import tempfile
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='gb18030')         #改变标准输出的默认编码
-
 def info():
   print(__doc__)
   print('Platform: ' + sys.platform + '.')
@@ -96,7 +94,7 @@ class controlstruct(object):
     self.inf = self.otherfiles.pop(0)
 
 def showhelp():
-  a = """Usage: jemdoc [OPTIONS] [SOURCEFILE] 
+  a = """Usage: jemdoc [OPTIONS] [SOURCEFILE]
   Produces html markup from a jemdoc SOURCEFILE.
 
   Most of the time you can use jemdoc without any additional flags.
@@ -117,7 +115,7 @@ def showhelp():
   overwritten by including them in a configuration file, and running,
   for example,
 
-    jemdoc -c mywebsite.conf index.jemdoc 
+    jemdoc -c mywebsite.conf index.jemdoc
 
   You can view version and installation details with
 
@@ -377,11 +375,9 @@ def insertmenuitems(f, mname, current, prefix):
 def out(f, s):
 #  print(type(s))
   if sys.version_info[0] == 2 and type(s) is StringType:
-    # f.write(s.decode('utf-8'))
-    f.write(s)
+    f.write(s.decode('utf-8'))
   else:
     f.write(s)
-    # f.write(s)
 
 def mathjaxussub(link):
   link = link.replace('_', 'UNDERSCORE65358')
@@ -471,12 +467,13 @@ def pc(f, ditchcomments=True):
 def doincludes(f, l):
   ir = 'includeraw{'
   i = 'include{'
+  l = l.rstrip()
   if l.startswith(ir):
-    nf = io.open(l[len(ir):-2], 'rb')
-    f.outf.write(nf.read())
+    nf = io.open(l[len(ir):-1], 'rb')
+    f.outf.write(nf.read().decode('utf-8'))
     nf.close()
   elif l.startswith(i):
-    f.pushfile(l[len(i):-2])
+    f.pushfile(l[len(i):-1])
   else:
     return False
 
@@ -553,9 +550,9 @@ def np(f, withcount=False, eatblanks=True):
 
   # in both cases, ditch the trailing \n.
   if withcount:
-    return (s[:-1], c)
+    return (s, c)
   else:
-    return s[:-1]
+    return s
 
 def quote(s):
   return re.sub(r"""[\\*/+"'<>&$%\.~[\]-]""", r'\\\g<0>', s)
@@ -1554,7 +1551,7 @@ def procfile(f):
     out(f.outf, f.conf['footerstart'])
     if showlastupdated:
       if showlastupdatedtime:
-        ts = '%Y-%m-%d %H:%M:%S CST'
+        ts = '%Y-%m-%d %H:%M:%S %Z'
       else:
         ts = '%Y-%m-%d'
       s = time.strftime(ts, time.localtime(time.time()))
@@ -1631,8 +1628,7 @@ def main():
       thisout = outname
 
     infile = io.open(inname, 'rb')
-    # outfile = io.open(thisout, 'w')
-    outfile = open(thisout, 'w', encoding="utf-8")
+    outfile = io.open(thisout, 'w')
 
 #    print(infile.read())
     f = controlstruct(infile, outfile, conf, inname)

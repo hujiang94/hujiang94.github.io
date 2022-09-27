@@ -1,12 +1,12 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
-==Haimiao Zhang-Ph.D
+== Jiang Hu
 
 
 == Research
 My research interests include 
-- Sparse modeling
-- Medical image reconstruction
-- Deep Learning
+- Smooth and non-smooth optimization 
+- Decentralized optimization and Federated learning
+- Applications in medical imaging analysis
 
 
 
