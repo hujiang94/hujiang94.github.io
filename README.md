@@ -1,2 +1,2 @@
-[Here](https://hujiangpku.github.io/homepage/) is my homepage
+[Here](https://hujiangpku.github.io/) is my homepage
 
