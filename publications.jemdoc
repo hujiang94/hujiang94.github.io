@@ -7,6 +7,7 @@
    - H. Liu, *J. Hu*, Y. Li, Z. Wen, Computational Methods For Optimization (in Chinese), Higher Education Press. \[[http://bicmr.pku.edu.cn/~wenzw/optbook.html content]\] 
    - H. Liu, *J. Hu*, Y. Li, Z. Wen, Optimization: Modeling, Algorithm, and Theory (in Chinese), Higher Education Press. \[[http://bicmr.pku.edu.cn/~wenzw/optbook.html content]\]
 == Research articles:
+   - J. Wang$^*$, *J. Hu$^*$*, S. Chen, Z. Deng, A. M.-C. So, Decentralized Weakly Convex Optimization Over the Stiefel Manifold. In submission.
    - *J. Hu*, K. Deng, N. Li, Q. Li, Decentralized Riemannian natural gradient methods with Kronecker-product approximations. \[[https://arxiv.org/abs/2303.09611 arxiv]\]
    - *J. Hu*, K. Deng, J. Wu, Q. Li, A projected semismooth Newton method for a class of nonconvex composite programs with strong prox-regularity. \[[https://arxiv.org/abs/2303.05410 arxiv]\]
    - J. Wu, *J. Hu$^\dagger$*, H. Zhang, Z. Wen, Convergence analysis of an adaptively regularized natural gradient method. In submission.  
