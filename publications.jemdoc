@@ -16,7 +16,7 @@
    - J. Wu, *J. Hu$^\dagger$*, H. Zhang, Z. Wen, Convergence analysis of an adaptively regularized natural gradient method. In submission.  
    - Z. Peng, W. Hu, *J. Hu*, K. Deng, Riemannian smoothing gradient type algorithms for nonsmooth optimization problem on manifolds. Applied Mathematics \& Optimization. \[[https://arxiv.org/abs/2212.03526 arxiv]\]
    - *J. Hu*, T. Tian, S. Pan, Z. Wen, On the local convergence of the semismooth Newton method for composite optimization. \[[https://arxiv.org/abs/2211.01127 arxiv]\]
-   - *J. Hu*, R. Ao, A. M.-C. So, M. Yang, Z. Wen, Riemannian Natural Gradient Methods. \[[https://arxiv.org/abs/2207.07287 arxiv]\]
+   - *J. Hu*, R. Ao, A. M.-C. So, M. Yang, Z. Wen, Riemannian Natural Gradient Methods. SIAM Journal on Scientific Computing. \[[https://arxiv.org/abs/2207.07287 arxiv]\]
    - *J. Hu*, X. Liu, Z. Wen, Y. Yuan, A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China.  
    \[[https://link.springer.com/article/10.1007/s40305-020-00295-9 journal]\] 
    - *J. Hu*, B. Jiang, L. Lin, Z. Wen, Y. Yuan (2019), Structured Quasi-Newton Methods for Optimization
