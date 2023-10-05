@@ -7,6 +7,7 @@
    - H. Liu, *J. Hu*, Y. Li, Z. Wen, Computational Methods For Optimization (in Chinese), Higher Education Press. \[[http://bicmr.pku.edu.cn/~wenzw/optbook.html content]\] 
    - H. Liu, *J. Hu*, Y. Li, Z. Wen, Optimization: Modeling, Algorithm, and Theory (in Chinese), Higher Education Press. \[[http://bicmr.pku.edu.cn/~wenzw/optbook.html content]\]
 == Research articles:
+   - Z. Deng, K. Deng, *J. Hu*, Z. Wen, An Augmented Lagrangian Primal-Dual Semismooth Newton Method for Multi-block Composite Optimization. In submission.
    - J. Zhang, *J. Hu*, M. Johansson, Composite federated learning with heterogeneous data. \[[https://arxiv.org/abs/2309.01795 arxiv]\]
    - *J. Hu*, J. Zhang, K. Deng, Achieving Consensus over Compact Submanifolds. \[[http://arxiv.org/abs/2306.04769 arxiv]\]
    - K. Deng, *J. Hu$^\dagger$*, Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds. \[[https://arxiv.org/abs/2304.08241 arxiv]\]
