@@ -17,9 +17,9 @@
    - J. Wang$^*$, *J. Hu$^*$*, S. Chen, Z. Deng, A. M.-C. So, Decentralized Weakly Convex Optimization Over the Stiefel Manifold. \[[https://arxiv.org/abs/2303.17779 arxiv]\]
    - *J. Hu*, K. Deng, N. Li, Q. Li, Decentralized Riemannian natural gradient methods with Kronecker-product approximations. \[[https://arxiv.org/abs/2303.09611 arxiv]\]
    - *J. Hu*, T. Tian, S. Pan, Z. Wen, On the local convergence of the semismooth Newton method for composite optimization. \[[https://arxiv.org/abs/2211.01127 arxiv]\]
-   - J. Wu, *J. Hu$^\dagger$*, H. Zhang, Z. Wen, Convergence analysis of an adaptively regularized natural gradient method. In submission. 
 
 == Published:
+   - J. Wu, *J. Hu$^\dagger$*, H. Zhang, Z. Wen, Convergence analysis of an adaptively regularized natural gradient method. IEEE Transactions on Signal Processing. 
    - *J. Hu*, K. Deng, J. Wu, Q. Li, A projected semismooth Newton method for a class of nonconvex composite programs with strong prox-regularity. Journal of Machine Learning Research. \[[https://arxiv.org/abs/2303.05410 arxiv]\]
    - S. Kim, H. Ren, J. Charton, *J. Hu*, et al. Assessment of valve regurgitation severity via contrastive learning and multi-view video integration. Physics in Medicine \& Biology.
    - J. Zhang, *J. Hu*, M. Johansson, Composite federated learning with heterogeneous data. ICASSP 2024. *won Best Paper Award!* \[[https://arxiv.org/abs/2309.01795 arxiv]\] 
