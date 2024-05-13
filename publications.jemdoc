@@ -19,22 +19,22 @@
    - *J. Hu*, T. Tian, S. Pan, Z. Wen, On the local convergence of the semismooth Newton method for composite optimization. \[[https://arxiv.org/abs/2211.01127 arxiv]\]
 
 == Published:
-   - J. Wu, *J. Hu$^\dagger$*, H. Zhang, Z. Wen, Convergence analysis of an adaptively regularized natural gradient method. IEEE Transactions on Signal Processing. 
-   - *J. Hu*, K. Deng, J. Wu, Q. Li, A projected semismooth Newton method for a class of nonconvex composite programs with strong prox-regularity. Journal of Machine Learning Research. \[[https://arxiv.org/abs/2303.05410 arxiv]\]
-   - S. Kim, H. Ren, J. Charton, *J. Hu*, et al. Assessment of valve regurgitation severity via contrastive learning and multi-view video integration. Physics in Medicine \& Biology.
-   - J. Zhang, *J. Hu*, M. Johansson, Composite federated learning with heterogeneous data. ICASSP 2024. *won Best Paper Award!* \[[https://arxiv.org/abs/2309.01795 arxiv]\] 
-   - Z. Peng, W. Hu, *J. Hu*, K. Deng, Riemannian smoothing gradient type algorithms for nonsmooth optimization problem on manifolds. Applied Mathematics \& Optimization. \[[https://arxiv.org/abs/2212.03526 arxiv]\]
-   - *J. Hu*, R. Ao, A. M.-C. So, M. Yang, Z. Wen, Riemannian Natural Gradient Methods. SIAM Journal on Scientific Computing. \[[https://arxiv.org/abs/2207.07287 arxiv]\]
-   - *J. Hu*, X. Liu, Z. Wen, Y. Yuan, A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China.  
+   - J. Wu, *J. Hu$^\dagger$*, H. Zhang, Z. Wen, Convergence analysis of an adaptively regularized natural gradient method. IEEE Transactions on Signal Processing, 2024. \[[https://ieeexplore.ieee.org/document/10527404 journal]\]
+   - *J. Hu*, K. Deng, J. Wu, Q. Li, A projected semismooth Newton method for a class of nonconvex composite programs with strong prox-regularity. Journal of Machine Learning Research, 2024, 25(56), 1-32.  \[[https://www.jmlr.org/papers/v25/23-0371.html journal]\]
+   - S. Kim, H. Ren, J. Charton, *J. Hu*, et al. Assessment of valve regurgitation severity via contrastive learning and multi-view video integration. Physics in Medicine \& Biology, 2024, 69(4), 045020. \[[https://pubmed.ncbi.nlm.nih.gov/38271727/ journal]\]
+   - J. Zhang, *J. Hu*, M. Johansson, Composite federated learning with heterogeneous data. ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024. *won Best Paper Award! 1/2826* \[[https://ieeexplore.ieee.org/document/104477185 journal]\] 
+   - *J. Hu*, R. Ao, A. M.-C. So, M. Yang, Z. Wen, Riemannian Natural Gradient Methods. SIAM Journal on Scientific Computing, 2024, 46(1), A204-A231. \[[https://doi.org/10.1137/22M1509643 journal]\]
+   - Z. Peng, W. Hu, *J. Hu*, K. Deng, Riemannian smoothing gradient type algorithms for nonsmooth optimization problem on manifolds. Applied Mathematics \& Optimization, 2023, 88(3), 85. \[[https://link.springer.com/article/10.1007/s00245-023-10061-x journal]\]   
+   - *J. Hu*, X. Liu, Z. Wen, Y. Yuan, A Brief Introduction to Manifold Optimization, Journal of the Operations Research Society of China, 2020, 8, 199-248. \[[https://link.springer.com/article/10.1007/s40305-020-00295-9 journal]\] 
    \[[https://link.springer.com/article/10.1007/s40305-020-00295-9 journal]\] 
-   - *J. Hu*, B. Jiang, L. Lin, Z. Wen, Y. Yuan (2019), Structured Quasi-Newton Methods for Optimization
-      with Orthogonality Constraints, SIAM Journal on Scientific Computing, 41(4), A2239-A2269.    
+   - *J. Hu*, B. Jiang, L. Lin, Z. Wen, Y. Yuan, Structured Quasi-Newton Methods for Optimization
+      with Orthogonality Constraints, SIAM Journal on Scientific Computing, 2019, 41(4), A2239-A2269.    
    \[[https://epubs.siam.org/doi/pdf/10.1137/18M121112X journal]\] \[[https://github.com/wenstone/ASQN code]\]    
-   - *J. Hu*, A. Milzarek, Z. Wen, Y. Yuan (2018). Adaptive Quadratically Regularized Newton Method
-      for Riemannian Optimization. SIAM Journal on Matrix Analysis and Applications, 39(3), 1181-1207.  
+   - *J. Hu*, A. Milzarek, Z. Wen, Y. Yuan. Adaptive Quadratically Regularized Newton Method
+      for Riemannian Optimization. SIAM Journal on Matrix Analysis and Applications, 2018, 39(3), 1181-1207.  
     \[[https://epubs.siam.org/doi/pdf/10.1137/17M1142478 journal]\] \[[https://github.com/wenstone/ARNT code]\] 
-   - *J. Hu*, B. Jiang, X. Liu, Z. Wen (2016). A note on semidefinite programming relaxations for
-      polynomial optimization over a single sphere. Science China Mathematics, 59(8), 1543-1560.     
+   - *J. Hu*, B. Jiang, X. Liu, Z. Wen. A note on semidefinite programming relaxations for
+      polynomial optimization over a single sphere. Science China Mathematics, 2016, 59(8), 1543-1560.     
    \[[https://link.springer.com/article/10.1007/s11425-016-0301-5 journal]\]  
 
 $^*$: Equal contribution, $^\dagger$: Corresponding author.
