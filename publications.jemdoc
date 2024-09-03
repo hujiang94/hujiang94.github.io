@@ -9,6 +9,9 @@
 == Research articles
 
 == Preprint:
+   - J. Zhang, *J. Hu$^\dagger$*, A. So, M. Johansson, Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data. \[[https://arxiv.org/abs/2406.08465 arxiv]\]
+   - K. Deng, *J. Hu$^\dagger$*, J. Wu, Z. Wen, Oracle complexity of augmented Lagrangian methods for nonsmooth manifold optimization, \[[https://arxiv.org/abs/2404.05121 arxiv]\]
+   - J. Hu, K. Deng, Improving the communication in decentralized manifold optimization through single-step consensus and compression, \[[https://arxiv.org/abs/2407.08904 arxiv]\]
    - J. Yang, *J. Hu*, C. Shen, A dual adaptive algorithm for matrix optimization with sparse group lasso regularization. \[[https://www.researchgate.net/profile/Chungen-Shen/publication/377088312_A_dual_adaptive_algorithm_for_matrix_optimization_with_sparse_group_lasso_regularization/links/65954eee0bb2c7472b2ff7e9/A-dual-adaptive-algorithm-for-matrix-optimization-with-sparse-group-lasso-regularization.pdf  Researchgate]\]
    - K. Deng, *J. Hu$^\dagger$*, H. Wang, Decentralized Douglas-Rachford splitting methods for smooth optimization over compact submanifolds. \[[https://arxiv.org/abs/2311.16399 arxiv]\]
    - Z. Deng, K. Deng, *J. Hu$^\dagger$*, Z. Wen, An Augmented Lagrangian Primal-Dual Semismooth Newton Method for Multi-block Composite Optimization. In submission. \[[https://arxiv.org/abs/2312.01273 arxiv]\]
@@ -19,6 +22,8 @@
    - *J. Hu*, T. Tian, S. Pan, Z. Wen, On the local convergence of the semismooth Newton method for composite optimization. \[[https://arxiv.org/abs/2211.01127 arxiv]\]
 
 == Published:
+   - C. Chen, J. Miao, D. Wu, Z. Yan, S. Kim, *J. Hu*, et al. MA-SAM: Modality-agnostic SAM adaptation for 3D medical image segmentation. Medical Image Analysis, 2024.
+   - K. Deng, *J. Hu$^\dagger$*, H. Wang, Decentralized Douglas-Rachford splitting methods for smooth optimization over compact submanifolds. Journal of Computational Mathematics, 2024.
    - J. Wu, *J. Hu$^\dagger$*, H. Zhang, Z. Wen, Convergence analysis of an adaptively regularized natural gradient method. IEEE Transactions on Signal Processing, 2024. \[[https://ieeexplore.ieee.org/document/10527404 journal]\]
    - *J. Hu*, K. Deng, J. Wu, Q. Li, A projected semismooth Newton method for a class of nonconvex composite programs with strong prox-regularity. Journal of Machine Learning Research, 2024, 25(56), 1-32.  \[[https://www.jmlr.org/papers/v25/23-0371.html journal]\]
    - S. Kim, H. Ren, J. Charton, *J. Hu*, et al. Assessment of valve regurgitation severity via contrastive learning and multi-view video integration. Physics in Medicine \& Biology, 2024, 69(4), 045020. \[[https://pubmed.ncbi.nlm.nih.gov/38271727/ journal]\]
