@@ -20,6 +20,7 @@
    - *J. Hu*, T. Tian, S. Pan, Z. Wen, On the local convergence of the semismooth Newton method for composite optimization. \[[https://arxiv.org/abs/2211.01127 arxiv]\]
 
 == Published:
+   - K. Deng, *J. Hu$^\dagger$*, Decentralized projected Riemannian stochastic recursive momentum method for smooth optimization on compact submanifolds. AAAI 2025. \[[https://arxiv.org/abs/2412.02382 arxiv]\]
    - J. Zhang, *J. Hu$^\dagger$*, A. So, M. Johansson, Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data. NeurIPS 2024. \[[https://arxiv.org/abs/2406.08465 arxiv]\]
    - C. Chen, J. Miao, D. Wu, Z. Yan, S. Kim, *J. Hu*, et al. MA-SAM: Modality-agnostic SAM adaptation for 3D medical image segmentation. Medical Image Analysis, 2024.
    - K. Deng, *J. Hu$^\dagger$*, H. Wang, Decentralized Douglas-Rachford splitting methods for smooth optimization over compact submanifolds. Journal of Computational Mathematics, 2024.
