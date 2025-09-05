@@ -13,9 +13,9 @@
    - G. Goldshlager, *J. Hu*, L. Lin, Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing, \[[https://arxiv.org/abs/2502.00882 arxiv]\]
    - Z. Deng, *J. Hu$^\dagger$*, K. Deng, Z. Wen, An efficient primal dual semismooth Newton method for semidefinite programming, \[[https://arxiv.org/abs/2504.14333 arxiv]\]
    - *J. Hu*, K. Deng, Improving the communication in decentralized manifold optimization through single-step consensus and compression, \[[https://arxiv.org/abs/2407.08904 arxiv]\]
-   - K. Deng, *J. Hu$^\dagger$*, Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds. \[[https://arxiv.org/abs/2304.08241 arxiv]\]
    - J. Wang$^*$, *J. Hu$^*$*, S. Chen, Z. Deng, A. M.-C. So, Decentralized Weakly Convex Optimization Over the Stiefel Manifold. \[[https://arxiv.org/abs/2303.17779 arxiv]\]
 == Selected Journal papers ([https://scholar.google.com/citations?hl=en&user=WIlpQFwAAAAJ Full list at Google Scholar]):
+   - K. Deng, *J. Hu$^\dagger$*, Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space. *Numerische Mathematik*. \[[https://arxiv.org/abs/2304.08241 arxiv]\]
    - K. Deng, *J. Hu$^\dagger$*, J. Wu, Z. Wen, Oracle complexity of augmented Lagrangian methods for nonsmooth manifold optimization. *Mathematics of Operations Research*. \[[https://arxiv.org/abs/2404.05121 arxiv]\]
    - *J. Hu*, T. Tian, S. Pan, Z. Wen, On the local convergence of the semismooth Newton method for composite optimization. *Journal of Scientific Computing*, 2025. \[[https://link.springer.com/article/10.1007/s10915-025-02867-4 journal]\]
    - *J. Hu*, J. Zhang, K. Deng, Achieving Local Consensus over Compact Submanifolds. *IEEE Transactions on Automatic Control*, 2025. \[[https://ieeexplore.ieee.org/abstract/document/10903988 journal]\] 
