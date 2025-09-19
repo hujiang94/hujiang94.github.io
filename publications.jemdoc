@@ -9,12 +9,12 @@
 == Research articles
 
 == Preprint:
-   - J. Zhang, *J. Hu*, M. Johansson, Composite federated learning with heterogeneous data, \[[https://arxiv.org/abs/2502.03958 arxiv]\]
    - G. Goldshlager, *J. Hu*, L. Lin, Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing, \[[https://arxiv.org/abs/2502.00882 arxiv]\]
    - Z. Deng, *J. Hu$^\dagger$*, K. Deng, Z. Wen, An efficient primal dual semismooth Newton method for semidefinite programming, \[[https://arxiv.org/abs/2504.14333 arxiv]\]
    - *J. Hu*, K. Deng, Improving the communication in decentralized manifold optimization through single-step consensus and compression, \[[https://arxiv.org/abs/2407.08904 arxiv]\]
    - J. Wang$^*$, *J. Hu$^*$*, S. Chen, Z. Deng, A. M.-C. So, Decentralized Weakly Convex Optimization Over the Stiefel Manifold. \[[https://arxiv.org/abs/2303.17779 arxiv]\]
 == Selected Journal papers ([https://scholar.google.com/citations?hl=en&user=WIlpQFwAAAAJ Full list at Google Scholar]):
+   - J. Zhang, *J. Hu*, M. Johansson, Non-convex composite federated learning with heterogeneous data. *Automatica*. \[[https://arxiv.org/abs/2502.03958 arxiv]\]
    - K. Deng, *J. Hu$^\dagger$*, Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space. *Numerische Mathematik*. \[[https://arxiv.org/abs/2304.08241 arxiv]\]
    - K. Deng, *J. Hu$^\dagger$*, J. Wu, Z. Wen, Oracle complexity of augmented Lagrangian methods for nonsmooth manifold optimization. *Mathematics of Operations Research*. \[[https://arxiv.org/abs/2404.05121 arxiv]\]
    - *J. Hu*, T. Tian, S. Pan, Z. Wen, On the local convergence of the semismooth Newton method for composite optimization. *Journal of Scientific Computing*, 2025. \[[https://link.springer.com/article/10.1007/s10915-025-02867-4 journal]\]
@@ -33,6 +33,7 @@
     \[[https://epubs.siam.org/doi/pdf/10.1137/17M1142478 journal]\] \[[https://github.com/wenstone/ARNT code]\] 
 
 == Selected conference papers:
+   - K. Deng, J. Jin, *J. Hu*, H. Wang, Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing. *Advances in Neural Information Processing Systems 37: Proceedings of the 2025 Conference (NeurIPS 2025)*, 2025.
    - K. Deng, *J. Hu$^\dagger$*, Decentralized projected Riemannian stochastic recursive momentum method for smooth optimization on compact submanifolds. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2025)*, 2025. \[[https://ojs.aaai.org/index.php/AAAI/article/view/33218 conf]\]
    - J. Zhang, *J. Hu$^\dagger$*, A. So, M. Johansson, Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data. *Advances in Neural Information Processing Systems 37: Proceedings of the 2024 Conference (NeurIPS 2024)*, 2024. \[[https://proceedings.neurips.cc/paper_files/paper/2024/hash/c6776239514e90cbaa56b575a9f9e05c-Abstract-Conference.html conf]\]
    - J. Zhang, *J. Hu*, M. Johansson, Composite federated learning with heterogeneous data. *ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. IEEE, 2024. *won Best Paper Award! 1/2826* \[[https://ieeexplore.ieee.org/document/104477185 link]\] 
