@@ -11,9 +11,11 @@
 == Preprint:
    - Z. Deng, *J. Hu$^\dagger$*, K. Deng, Z. Wen, An efficient primal dual semismooth Newton method for semidefinite programming, \[[https://arxiv.org/abs/2504.14333 arxiv]\]
    - *J. Hu*, K. Deng, Improving the communication in decentralized manifold optimization through single-step consensus and compression, \[[https://arxiv.org/abs/2407.08904 arxiv]\]
-   - J. Wang$^*$, *J. Hu$^*$*, S. Chen, Z. Deng, A. M.-C. So, Decentralized Weakly Convex Optimization Over the Stiefel Manifold. \[[https://arxiv.org/abs/2303.17779 arxiv]\]
 == Selected Journal papers ([https://scholar.google.com/citations?hl=en&user=WIlpQFwAAAAJ Full list at Google Scholar]):
+   - J. Wang$^*$, *J. Hu$^\dagger$*, S. Chen, A. M.-C. So, Decentralized Weakly Convex Optimization Over the Stiefel Manifold. *IEEE Transactions on Signal Processing*, 2026. 
    - Y. Zhang, *J. Hu$^\dagger$*, Z. Lai, L. Lin, Z. Wen, Retraction-Free Optimization over the Stiefel Manifold for the LoRA Fine-Tuning. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026.
+   - Z. Lai, D. An, J. Hu and Z. Wen, “A Grover-compatible manifold optimization algorithm for
+quantum search”. *SIAM Journal on Scientific Computing*, 2026.
    - G. Goldshlager, *J. Hu*, L. Lin, Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing. *SIAM Journal on Matrix Analysis and Applications*, 2026. \[[https://arxiv.org/abs/2502.00882 arxiv]\]
    - J. Zhang, *J. Hu*, M. Johansson, Non-convex composite federated learning with heterogeneous data. *Automatica*, 2025. \[[https://arxiv.org/abs/2502.03958 arxiv]\]
    - K. Deng, *J. Hu$^\dagger$*, Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space. *Numerische Mathematik*, 2025. \[[https://arxiv.org/abs/2304.08241 arxiv]\]
