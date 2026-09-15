@@ -1,12 +1,12 @@
-# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: menu{MENU}{index.html}, showsource, title{Jiang Hu}
 ==Jiang Hu
 
 ~~~
-{}{img_left}{images/hujiang.png}{alt text}{300}{200}
+{}{img_left}{images/hujiang.png}{Jiang Hu}{300}{200}
 Assistant professor\n
 Yau Mathematical Sciences Center, Tsinghua University\n
 
-Shuangqing Complex Blgd. C634\n
+Shuangqing Complex Bldg. B721\n
 Tsinghua University
 Haidian District, Beijing 100084, China
 
@@ -14,32 +14,41 @@ Email: jianghu@tsinghua.edu.cn, hujiangopt@gmail.com\n
 ~~~
 
 == About me
-I am an Assistant Professor at the Yau Mathematical Sciences Center, Tsinghua University. I received my Ph.D. from Peking University and have held research positions at the Chinese University of Hong Kong, Harvard Medical School, and the University of California, Berkeley. My current research focuses on mathematical optimization and its applications in machine learning and artificial intelligence.
+I am an Assistant Professor at the Yau Mathematical Sciences Center, Tsinghua University. I received my Ph.D. from Peking University and have held research positions at the Chinese University of Hong Kong, Harvard Medical School, and the University of California, Berkeley. My current research focuses on mathematical optimization and its applications in machine learning, artificial intelligence, and AI for mathematics (AI4Math).
 
 I am seeking self-motivated undergraduate, master, Ph.D students, and postdoctoral fellows with solid mathematical background. Please email me for details.
 
 
-== News
-- \[7/2026\] One paper titled ``Decentralized Weakly Convex Optimization Over the Stiefel Manifold'' is accepted by *IEEE Transaction on Signal Processing*. \[[https://arxiv.org/abs/2303.17779 link]\]
-- \[7/2026\] One paper titled ``Retraction-Free Optimization over the Stiefel Manifold for the LoRA Fine-Tuning'' is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence*. \[[https://ieeexplore.ieee.org/abstract/document/11601052/ link]\]
+~~~
+{}{raw}
+<h2 id="news-heading">News</h2>
+<p class="news-hint" id="news-hint">Latest 6 entries · Scroll for earlier news.</p>
+<div class="news-scroll" role="region" aria-labelledby="news-heading" aria-describedby="news-hint" tabindex="0">
+~~~
+
+- \[9/2026\] Our paper ``An efficient primal dual semismooth Newton method for semidefinite programming'' has been accepted by *Mathematics of Operations Research*. \[[https://arxiv.org/abs/2504.14333 arxiv]\]
+- \[9/2026\] I am teaching *Optimization Methods in Artificial Intelligence (人工智能中的优化方法)* at Tsinghua University in Fall 2026. \[[/teaching.html Course details]\]
+- \[7/2026\] One paper titled ``Decentralized Weakly Convex Optimization Over the Stiefel Manifold'' is accepted by *IEEE Transactions on Signal Processing*. \[[https://ieeexplore.ieee.org/document/11646513 publication]\]
+- \[7/2026\] One paper titled ``Retraction-Free Optimization over the Stiefel Manifold for the LoRA Fine-Tuning'' is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence*. \[[https://ieeexplore.ieee.org/document/11601052 publication]\]
 - \[7/2026\] One paper titled ``A Grover-compatible Manifold Optimization Algorithm for Quantum Search'' is accepted by *SIAM Journal on Scientific Computing*. \[[https://arxiv.org/abs/2512.08432 link]\]
-- \[4/2026\] One paper titled ``A Sketch-and-Project Analysis of Subsampled Natural Gradient Algorithms'' is accepted by *International Conference on Machine Learning (ICML) 2026*. \[[https://arxiv.org/abs/2508.21022 link]\]
+- \[4/2026\] One paper titled ``A Sketch-and-Project Analysis of Subsampled Natural Gradient Algorithms'' is accepted by *International Conference on Machine Learning (ICML) 2026*. \[[https://openreview.net/forum?id=2iDtIht7W4 publication]\]
 - \[4/2026\] One paper titled ``Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing'' is accepted by *SIAM Journal on Matrix Analysis and Applications*. \[[https://arxiv.org/abs/2502.00882 link]\]
-- \[9/2025\] One paper titled ‘‘Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing’’ is accepted by *NeurIPS 2025*. \[[https://arxiv.org/abs/2510.18617 link]\]
-- \[9/2025\] One paper titled ‘‘Non-convex composite federated learning with heterogeneous data’’ is accepted by *Automatica*. \[[https://arxiv.org/abs/2502.03958 link]\]
-- \[9/2025\] One paper titled ‘‘Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space’’ is accepted by *Numerische Mathematik*. \[[https://arxiv.org/abs/2304.08241 link]\]
-- \[9/2025\] One paper titled ``Oracle complexity of augmented Lagrangian methods for nonsmooth manifold optimization'' is accepted by *Mathematics of Operations Research*. \[[https://arxiv.org/abs/2404.05121 link]\]
+- \[9/2025\] One paper titled ‘‘Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing’’ is accepted by *NeurIPS 2025*. \[[https://proceedings.neurips.cc/paper_files/paper/2025/hash/bc46f5d72f432de4c58e1a311bad011b-Abstract-Conference.html publication]\]
+- \[9/2025\] One paper titled ‘‘Non-convex composite federated learning with heterogeneous data’’ is accepted by *Automatica*. \[[https://doi.org/10.1016/j.automatica.2025.112695 publication]\]
+- \[9/2025\] One paper titled ‘‘Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds embedded in the Euclidean space’’ is accepted by *Numerische Mathematik*. \[[https://doi.org/10.1007/s00211-025-01497-0 publication]\]
+- \[9/2025\] One paper titled ``Oracle complexity of augmented Lagrangian methods for nonsmooth manifold optimization'' is accepted by *Mathematics of Operations Research*. \[[https://doi.org/10.1287/moor.2024.0498 publication]\]
 - \[3/2025\] One paper titled ``On the local convergence of the semismooth Newton method for composite optimization'' is accepted by *Journal of Scientific Computing*. \[[https://link.springer.com/article/10.1007/s10915-025-02867-4 link]\]
-- \[2/2025\] One paper titled ``Achieving Local Consensus over Compact Submanifolds'' is accepted by *IEEE Transactions on Automatic Control*. \[[https://ieeexplore.ieee.org/abstract/document/10903988 link]\] 
+- \[2/2025\] One paper titled ``Achieving Local Consensus over Compact Submanifolds'' is accepted by *IEEE Transactions on Automatic Control*. \[[https://ieeexplore.ieee.org/abstract/document/10903988 link]\]
 - \[1/2025\] One paper titled ``An Augmented Lagrangian Primal-Dual Semismooth Newton Method for Multi-block Composite Optimization'' is accepted by *Journal of Scientific Computing*. \[[https://link.springer.com/article/10.1007/s10915-025-02794-4 link]\]
 - \[12/2024\] One paper titled ``Decentralized projected Riemannian stochastic recursive momentum method for nonconvex optimization'' is accepted by *AAAI 2025*. \[[https://ojs.aaai.org/index.php/AAAI/article/view/33218 link]\]
 - \[9/2024\] One paper titled ``Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data'' is accepted by *NeurIPS 2024*. \[[https://proceedings.neurips.cc/paper_files/paper/2024/hash/c6776239514e90cbaa56b575a9f9e05c-Abstract-Conference.html link]\]
 - \[7/2024\] Our manuscript titled ``Improving the communication in decentralized manifold optimization through single-step consensus and compression'' is on arxiv. \[[https://arxiv.org/abs/2407.08904 arxiv]\]
-- \[5/2024\] One paper titled ``Convergence analysis of an adaptively regularized natural gradient method'' is accepted by *IEEE Transaction on Signal Processing*. \[[https://ieeexplore.ieee.org/document/10527404 link]\]
-- \[4/2024\] Honored to receive the *Best Paper Award at ICASSP 2024*, 1 out of 2826 accepted papers. \[[https://ieeexplore.ieee.org/abstract/document/10447718?casa_token=xcLtCu7LT7MAAAAA:R3v2aMdB4CJCPq6ERq8ljmzva8x_xEStvXNXZIyQxZLBy9KveLna3Xd1Iq4_8zzx-aRa-w link]\] \[[https://2024.ieeeicassp.org/awards/ page]\]
+- \[5/2024\] One paper titled ``Convergence analysis of an adaptively regularized natural gradient method'' is accepted by *IEEE Transactions on Signal Processing*. \[[https://ieeexplore.ieee.org/document/10527404 link]\]
+- \[4/2024\] Honored to receive the *Best Paper Award at ICASSP 2024*, 1 out of 2826 accepted papers. \[[https://ieeexplore.ieee.org/document/10447718 publication]\] \[[https://2024.ieeeicassp.org/awards/ page]\]
 - \[2/2024\] One paper titled ``A projected semismooth Newton method for a class of nonconvex composite programs with strong prox-regularity'' is accepted by *Journal of Machine Learning Research*. \[[https://www.jmlr.org/papers/v25/23-0371.html link]\]
 - \[1/2024\] One paper titled ``Riemannian Natural Gradient Methods'' is published at *SIAM Journal on Scientific Computing*. \[[https://doi.org/10.1137/22M1509643 link]\]
 
-
-
-
+~~~
+{}{raw}
+</div>
+~~~

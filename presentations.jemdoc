@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{presentations.html}, showsource
+# jemdoc: menu{MENU}{presentations.html}, showsource, title{Presentations | Jiang Hu}
 == Presentations
 
 - 中国运筹学会第一届青年学术大会, 2025.8, 山西太原
@@ -9,7 +9,3 @@
 France
 - The 11th International Conference on Numerical Optimization and Numerical Linear Algebra,
 2017.08, Yinchuan, China
-
-
-
-

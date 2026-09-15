@@ -1,12 +1,10 @@
-# jemdoc: menu{MENU}{research.html}, nofooter  
-== Jiang Hu
+# jemdoc: menu{MENU}{research.html}, nofooter, title{Research | Jiang Hu}
+= Research
 
 
-== Research
-My research interests include 
-- Smooth and non-smooth optimization 
+== Research interests
+My research interests include
+- Smooth and non-smooth optimization
 - Decentralized optimization and Federated learning
 - Applications in medical imaging analysis
-
-
-
+- AI for mathematics (AI4Math)

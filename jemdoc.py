@@ -334,7 +334,7 @@ def insertmenuitems(f, mname, current, prefix):
     if r: # then we have a menu item.
       link = r.group(2)
       if link[0] == '\\':
-        option = ' target="blank"'
+        option = ' target="_blank" rel="noopener noreferrer"'
         link = link[1:]
       else:
         option = ''
@@ -676,7 +676,7 @@ def replacelinks(b):
         option = ''
         m1 = m1[1:]
     else:
-        option = ' target="blank"'
+        option = r' target=\"\_blank\" rel=\"noopener noreferrer\"'
 
     if '@' in m1 and not m1.startswith('mailto:') and not \
        m1.startswith('http://'):

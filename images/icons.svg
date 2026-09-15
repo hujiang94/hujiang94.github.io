@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="home" viewBox="0 0 24 24">
+    <path d="m3 10 9-7 9 7v10H3Z M9 20v-7h6v7"/>
+  </symbol>
+  <symbol id="research" viewBox="0 0 24 24">
+    <circle cx="10" cy="10" r="6"/>
+    <path d="m15 15 6 6 M7 10h6 M10 7v6"/>
+  </symbol>
+  <symbol id="publication" viewBox="0 0 24 24">
+    <path d="M5 3h10l4 4v14H5Z M14 3v5h5 M8 12h8 M8 16h6"/>
+  </symbol>
+  <symbol id="presentation" viewBox="0 0 24 24">
+    <path d="M3 3h18v12H3Z M12 15v6 M8 21l4-4 4 4 M7 11l3-3 3 2 4-4"/>
+  </symbol>
+  <symbol id="software" viewBox="0 0 24 24">
+    <path d="m8 6-6 6 6 6 M16 6l6 6-6 6 M14 3l-4 18"/>
+  </symbol>
+  <symbol id="teaching" viewBox="0 0 24 24">
+    <path d="m2 8 10-5 10 5-10 5Z M6 10v7c4 3 8 3 12 0v-7 M22 8v8"/>
+  </symbol>
+  <symbol id="conference" viewBox="0 0 24 24">
+    <circle cx="12" cy="7" r="3"/>
+    <path d="M6 21v-3a6 6 0 0 1 12 0v3 M4 5a3 3 0 0 1 0 6 M20 5a3 3 0 0 0 0 6 M2 20v-3a4 4 0 0 1 3-4 M22 20v-3a4 4 0 0 0-3-4"/>
+  </symbol>
+</svg>

@@ -1,0 +1,132 @@
+/* Small additions to the original Jemdoc layout. */
+table#tlayout {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+#layout-menu {
+  width: 164px;
+}
+
+#layout-menu .menu-item {
+  padding: 0;
+  text-indent: 0;
+}
+
+#layout-menu .menu-item a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 36px;
+  margin-left: 0;
+}
+
+.menu-icon {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+a:focus-visible,
+.news-scroll:focus-visible {
+  outline: 2px solid #224b8d;
+  outline-offset: 3px;
+}
+
+.news-hint {
+  color: #5c6674;
+  font-size: 0.9em;
+}
+
+.news-scroll {
+  max-height: 28rem;
+  overflow-y: auto;
+  scrollbar-gutter: stable;
+  border: 1px solid #d5dde8;
+  border-radius: 5px;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+
+.news-scroll ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.news-scroll li {
+  margin: 0;
+  padding: 0.7rem 0;
+}
+
+.news-scroll li + li {
+  border-top: 1px solid #e6eaf0;
+}
+
+.news-scroll li p {
+  margin: 0;
+}
+
+@media (max-width: 700px) {
+  table#tlayout,
+  #tlayout > tbody,
+  #tlayout > tbody > tr,
+  #layout-menu,
+  #layout-content {
+    display: block;
+    width: auto;
+  }
+
+  #layout-menu {
+    padding: 0.5rem 1rem;
+    border-width: 0 0 1px;
+    white-space: normal;
+  }
+
+  #layout-menu .menu-category {
+    margin-top: 0;
+  }
+
+  #layout-menu .menu-item {
+    display: inline-block;
+    margin-right: 0.75rem;
+  }
+
+  #layout-content {
+    padding: 0.5rem 1rem 1rem;
+    overflow-wrap: anywhere;
+  }
+
+  table.imgtable,
+  table.imgtable tbody,
+  table.imgtable tr,
+  table.imgtable td {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  table.imgtable img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+@media print {
+  .news-scroll {
+    max-height: none !important;
+    overflow: visible;
+    border: 0;
+    padding: 0;
+  }
+
+  .news-hint {
+    display: none;
+  }
+}

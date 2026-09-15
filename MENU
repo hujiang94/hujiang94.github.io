@@ -1,10 +1,9 @@
 
  Jiang Hu \n
- Home                [index.html]
- Publication         [publications.html]
- Presentation		 [presentations.html]
- Software			 [softwares.html]
- Teaching  [teaching.html]
-
-
-   
+ {{<svg class="menu-icon" aria-hidden="true" viewBox="0 0 24 24"><use href="images/icons.svg#home"></use></svg>}} Home [index.html]
+ {{<svg class="menu-icon" aria-hidden="true" viewBox="0 0 24 24"><use href="images/icons.svg#research"></use></svg>}} Research [research.html]
+ {{<svg class="menu-icon" aria-hidden="true" viewBox="0 0 24 24"><use href="images/icons.svg#publication"></use></svg>}} Publication [publications.html]
+ {{<svg class="menu-icon" aria-hidden="true" viewBox="0 0 24 24"><use href="images/icons.svg#presentation"></use></svg>}} Presentation [presentations.html]
+ {{<svg class="menu-icon" aria-hidden="true" viewBox="0 0 24 24"><use href="images/icons.svg#software"></use></svg>}} Software [softwares.html]
+ {{<svg class="menu-icon" aria-hidden="true" viewBox="0 0 24 24"><use href="images/icons.svg#teaching"></use></svg>}} Teaching [teaching.html]
+ {{<svg class="menu-icon" aria-hidden="true" viewBox="0 0 24 24"><use href="images/icons.svg#conference"></use></svg>}} Conference [conferences.html]
