@@ -9,8 +9,8 @@
 == Research articles
 
 == Preprint:
-   - S. Li, *J. Hu*, Stochastic Subgradient Descent at Sharply Repulsive Points: A Bounded Noise Counterexample and Gaussian Noise Avoidance, 2026. \[[https://arxiv.org/abs/2610.07777 arxiv]\]
-   - S. Li, *J. Hu*, PLADOS: A Parameter-free Landing Algorithm for Decentralized Optimization on the Stiefel Manifold, 2026. \[[https://arxiv.org/abs/2610.07750 arxiv]\]
+   - S. Li, *J. Hu$^\dagger$*, Stochastic Subgradient Descent at Sharply Repulsive Points: A Bounded Noise Counterexample and Gaussian Noise Avoidance, 2026. \[[https://arxiv.org/abs/2610.07777 arxiv]\]
+   - S. Li, *J. Hu$^\dagger$*, PLADOS: A Parameter-free Landing Algorithm for Decentralized Optimization on the Stiefel Manifold, 2026. \[[https://arxiv.org/abs/2610.07750 arxiv]\]
    - *J. Hu*, K. Deng, Improving the communication in decentralized manifold optimization through single-step consensus and compression, \[[https://arxiv.org/abs/2407.08904 arxiv]\]
 == Selected Journal papers ([https://scholar.google.com/citations?hl=en&user=WIlpQFwAAAAJ Full list at Google Scholar]):
    - Z. Deng, *J. Hu$^\dagger$*, K. Deng, Z. Wen, An efficient primal dual semismooth Newton method for semidefinite programming. *Mathematics of Operations Research*, accepted September 2026. \[[https://arxiv.org/abs/2504.14333 arxiv]\]
