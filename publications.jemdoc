@@ -16,7 +16,7 @@
    - Z. Deng, *J. Hu$^\dagger$*, K. Deng, Z. Wen, An efficient primal dual semismooth Newton method for semidefinite programming. *Mathematics of Operations Research*, accepted September 2026. \[[https://arxiv.org/abs/2504.14333 arxiv]\]
    - J. Wang$^*$, *J. Hu$^\dagger$*, S. Chen, A. M.-C. So, Decentralized Weakly Convex Optimization Over the Stiefel Manifold. *IEEE Transactions on Signal Processing*, 2026. \[[https://ieeexplore.ieee.org/document/11646513 publication]\] \[[https://arxiv.org/abs/2303.17779 arxiv]\]
    - Y. Zhang, *J. Hu$^\dagger$*, Z. Lai, L. Lin, Z. Wen, Retraction-Free Optimization over the Stiefel Manifold for the LoRA Fine-Tuning. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026. \[[https://ieeexplore.ieee.org/document/11601052 publication]\] \[[https://arxiv.org/abs/2607.25299 arxiv]\]
-   - Z. Lai, D. An, J. Hu and Z. Wen, “A Grover-compatible manifold optimization algorithm for
+   - Z. Lai, D. An, *J. Hu* and Z. Wen, “A Grover-compatible manifold optimization algorithm for
 quantum search”. *SIAM Journal on Scientific Computing*, 2026. \[[https://arxiv.org/abs/2512.08432 arxiv]\]
    - G. Goldshlager, *J. Hu*, L. Lin, Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing. *SIAM Journal on Matrix Analysis and Applications*, 2026. \[[https://arxiv.org/abs/2502.00882 arxiv]\]
    - J. Zhang, *J. Hu*, M. Johansson, Non-convex composite federated learning with heterogeneous data. *Automatica*, 2026, 183, 112695. \[[https://doi.org/10.1016/j.automatica.2025.112695 publication]\] \[[https://arxiv.org/abs/2502.03958 arxiv]\]
