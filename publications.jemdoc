@@ -11,8 +11,8 @@
 == Preprint:
    - S. Li, *J. Hu$^\dagger$*, Stochastic Subgradient Descent at Sharply Repulsive Points: A Bounded Noise Counterexample and Gaussian Noise Avoidance, 2026. \[[https://arxiv.org/abs/2610.07777 arxiv]\]
    - S. Li, *J. Hu$^\dagger$*, PLADOS: A Parameter-free Landing Algorithm for Decentralized Optimization on the Stiefel Manifold, 2026. \[[https://arxiv.org/abs/2610.07750 arxiv]\]
-   - *J. Hu*, K. Deng, Improving the communication in decentralized manifold optimization through single-step consensus and compression, \[[https://arxiv.org/abs/2407.08904 arxiv]\]
 == Selected Journal papers ([https://scholar.google.com/citations?hl=en&user=WIlpQFwAAAAJ Full list at Google Scholar]):
+   - *J. Hu*, K. Deng, Improving the communication in decentralized manifold optimization through single-step consensus and compression. *Mathematics of Operations Research*, accepted. \[[https://arxiv.org/abs/2407.08904 arxiv]\]
    - Z. Deng, *J. Hu$^\dagger$*, K. Deng, Z. Wen, An efficient primal dual semismooth Newton method for semidefinite programming. *Mathematics of Operations Research*, accepted September 2026. \[[https://arxiv.org/abs/2504.14333 arxiv]\]
    - J. Wang$^*$, *J. Hu$^\dagger$*, S. Chen, A. M.-C. So, Decentralized Weakly Convex Optimization Over the Stiefel Manifold. *IEEE Transactions on Signal Processing*, 2026. \[[https://ieeexplore.ieee.org/document/11646513 publication]\] \[[https://arxiv.org/abs/2303.17779 arxiv]\]
    - Y. Zhang, *J. Hu$^\dagger$*, Z. Lai, L. Lin, Z. Wen, Retraction-Free Optimization over the Stiefel Manifold for the LoRA Fine-Tuning. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026. \[[https://ieeexplore.ieee.org/document/11601052 publication]\] \[[https://arxiv.org/abs/2607.25299 arxiv]\]

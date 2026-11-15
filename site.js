@@ -21,3 +21,11 @@ document.addEventListener("DOMContentLoaded", function () {
   if ("ResizeObserver" in window) new ResizeObserver(sizeNews).observe(list);
   if (document.fonts) document.fonts.ready.then(sizeNews);
 });
+
+/* Count visits on the published site only; previews never contact the service. */
+if (window.location.hostname === "hujiang94.github.io") {
+  const counter = document.createElement("script");
+  counter.async = true;
+  counter.src = "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js";
+  document.head.appendChild(counter);
+}
